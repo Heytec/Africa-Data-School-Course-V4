@@ -20,7 +20,7 @@
 checkpoints/
 saved_models/
 *.hdf5
-
+.env
 # Jupyter Notebook
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
